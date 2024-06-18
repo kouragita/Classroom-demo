@@ -1,0 +1,91 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 5%;
+    
+}
+img[alt="kenyan-flag"]{
+    width: 3%;
+}
+
+img[alt="moringa-logo.png"]{
+    width: 20%;
+}
+
+#head h1{
+   font-family: Arial, Helvetica, sans-serif; 
+   font-size: 2em;
+}
+
+.discover{
+    color: rgb(236, 91, 38);
+}
+
+.grow{
+    color: rgb(32, 50, 32);
+}
+
+.transform{
+    color: rgb(37, 93, 225);
+}
+
+#txt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4em;
+    margin-bottom: 3%;
+    line-height: 1.8;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+
+
+img{
+    width: 100%;
+    
+}
+
+.flex-container, p{
+    margin-top: 0%;
+}
+
+#img1>p{
+    background-color: rgb(227, 75, 19);
+    text-align: center;
+    color: #ffffff;
+    padding: 3%;
+}
+
+#img2>p{
+    background-color: rgb(37, 93, 225);
+    text-align: center;
+    color: #ffffff;
+    padding: 3%;
+}
+
+#img3>p{
+    background-color: rgb(32, 50, 32);
+    text-align: center;
+    color: #ffffff;
+    padding: 3%;
+}
+
+#img4>p{
+    background-color: rgb(16, 3, 197);
+    text-align: center;
+    color: #ffffff;
+    padding: 3%;
+}
